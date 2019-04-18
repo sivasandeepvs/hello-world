@@ -3,3 +3,6 @@ Introduction to git and github.
 Can I finally get a grip on the basics?
 This is really nervous.
 Push and pull is a really messed up concept.
+Hi, my name is Greg
+I will be messing up your files, so just allow the commit to work.. 
+"Do you want to play a game?"
