@@ -1,3 +1,4 @@
 First training in QL.
 Introduction to git and github.
 Can I finally get a grip on the basics?
+This is really nervous.
